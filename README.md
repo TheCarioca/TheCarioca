@@ -13,10 +13,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/TheCarioca/TheCarioca/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Me conheça melhor:</h3>
 
 ###
